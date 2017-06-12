@@ -1,0 +1,1139 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -86.16176066, 
+                    39.60304758
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Walmart Supercenter in Greenwood, IN https://t.co/cbUDTrZ18e", 
+                "created_at": "Thu Feb 18 17:54:59 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.23605804, 
+                    40.05595606
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Troy, OH https://t.co/mS9rCMNhPm", 
+                "created_at": "Thu Feb 18 17:56:08 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -104.9852724, 
+                    39.87629253
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Thornton, CO https://t.co/2ScOeSXKfQ", 
+                "created_at": "Thu Feb 18 17:58:37 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.55212784, 
+                    28.06232387
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pick up (at @Walmart Supercenter in Tampa, FL) https://t.co/i0eer8YyNS", 
+                "created_at": "Thu Feb 18 18:03:27 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.71339451, 
+                    33.56385789
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Cute ang ara sa counter lol. \ud83d\ude0d (@ McDonald's @ Walmart in Laguna Niguel, CA) https://t.co/5j22dT8W6h", 
+                "created_at": "Thu Feb 18 18:08:29 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -97.89343461, 
+                    38.06977901
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Hutchinson, KS https://t.co/95RoaiuA34", 
+                "created_at": "Thu Feb 18 18:09:37 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.19512105, 
+                    33.79943725
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart in Stone Mountain, GA w/ @tokyodemornay https://t.co/OmxOscSnIk", 
+                "created_at": "Thu Feb 18 18:14:48 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.88295174, 
+                    35.12359426
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Fayetteville, NC https://t.co/7yis0TDvGU", 
+                "created_at": "Thu Feb 18 18:15:14 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -156.4553976, 
+                    20.87844078
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hawaii is America (at @Walmart in Kahului, HI) https://t.co/iBY8MXt2Y1", 
+                "created_at": "Thu Feb 18 18:15:44 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -89.87237063, 
+                    35.93062995
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "So Walmart sent me to Blytheville Walmart today and our group ate with the store manager and I\u2026 https://t.co/vEoEE5kjep", 
+                "created_at": "Thu Feb 18 18:19:24 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.36149673, 
+                    34.85770844
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "My local Walmart leftovers on sale. Who knew I would ever say this in public. @ The Ivy Apartments https://t.co/zIKp2bgLwQ", 
+                "created_at": "Thu Feb 18 18:21:00 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.45937443, 
+                    28.30252923
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Walmart Supercenter in Kissimmee, FL https://t.co/Nz0A4aKrsn", 
+                "created_at": "Thu Feb 18 18:36:46 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.26809218, 
+                    33.75667543
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "The other one is poorly stocked (at @Walmart Supercenter in Decatur, GA w/ @tokyodemornay) https://t.co/UmqrB1AY3U", 
+                "created_at": "Thu Feb 18 18:44:31 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.5708313, 
+                    39.21652804
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Dover, DE https://t.co/h26jV2WWmC", 
+                "created_at": "Thu Feb 18 18:48:51 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -88.7227045, 
+                    41.9498567
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Work..yea.. (@ Walmart Supercenter in Dekalb, IL) https://t.co/h1lw1srZ1j", 
+                "created_at": "Thu Feb 18 18:58:21 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.29376528, 
+                    40.53548799
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart in Woodbridge, NJ https://t.co/vU7IKSykmQ", 
+                "created_at": "Thu Feb 18 19:12:28 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.15179637, 
+                    40.75201018
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Lima, OH https://t.co/WpSHnd94zn", 
+                "created_at": "Thu Feb 18 19:13:49 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -88.61217215, 
+                    42.62998365
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Delavan, WI https://t.co/5dLT6KNlOP", 
+                "created_at": "Thu Feb 18 19:17:26 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -89.12384033, 
+                    41.37252546
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Walmart Supercenter in Peru, IL https://t.co/e4o2yJSyS6", 
+                "created_at": "Thu Feb 18 19:17:56 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.1935225, 
+                    33.55298317
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart in Murrieta, CA https://t.co/qUk1KBg2eM", 
+                "created_at": "Thu Feb 18 19:24:14 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.4964352, 
+                    32.69811634
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Calexico, CA https://t.co/U12WG1u5FX", 
+                "created_at": "Thu Feb 18 19:27:08 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.06980387, 
+                    29.92555537
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "More batman v superman toys at wal-mart #batmanvsupermandawnofjustice @ Walmart New Orleans -\u2026 https://t.co/RsQ6umNKkW", 
+                "created_at": "Thu Feb 18 19:31:16 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -89.63432907, 
+                    37.36263271
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Jackson, MO https://t.co/xpNa3w4jWi", 
+                "created_at": "Thu Feb 18 19:33:18 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.06980387, 
+                    29.92555537
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Found Aquaman #batmanvsupermandawnofjustice @ Walmart New Orleans - Tchoupitoulas St https://t.co/7cQsjqxHgD", 
+                "created_at": "Thu Feb 18 19:33:31 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -114.28516801, 
+                    35.14292487
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"@NPR: Wal-Mart Had A Tough Year, But Workers And Shoppers Got A Boost https://t.co/UH08DKsoH5\" OMG WalMart is going bankrupt. Those raises!", 
+                "created_at": "Thu Feb 18 19:33:47 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.67373657, 
+                    28.35481094
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Disappointment at the pharmacy. Thanks State of Florida (at @Walmart Supercenter in Clermont, FL) https://t.co/crQepjv9I8", 
+                "created_at": "Thu Feb 18 19:40:22 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.05879339, 
+                    43.05212581
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "One thing not amongst the office supplies was a date stamp! (at @Walmart Supercenter in Newark, NY) https://t.co/nCkNpRliQg", 
+                "created_at": "Wed Feb 24 21:05:17 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.57086325, 
+                    45.50644992
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Plaintes contre Walmart pour avoir vendu du parmesan \u00e0 la sciure de bois https://t.co/7Lm5B47Fs2", 
+                "created_at": "Wed Feb 24 21:08:38 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.63095794, 
+                    35.45293361
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "New World order logos with broken cross. #newworldorder  #popefrancis #catholic @ Walmart Athens\u2026 https://t.co/dGGo1Z2Vt5", 
+                "created_at": "Wed Feb 24 21:10:32 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -95.23558617, 
+                    29.54639319
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Pearland, TX https://t.co/w2QNGfA3k5", 
+                "created_at": "Wed Feb 24 21:10:47 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.4567154, 
+                    37.63141329
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Workflow (at @Walmart Supercenter in Richmond, VA w/ @eeveechick10) https://t.co/GzSOfczw4C", 
+                "created_at": "Wed Feb 24 21:13:35 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -104.5261884, 
+                    33.45001598
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Yep, visiting this store. Glad it's not mine. Proof of Aliens. Can Trump build a wall in the sky? (at @walmart) https://t.co/rHQ7WHtnuW", 
+                "created_at": "Wed Feb 24 21:14:52 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -88.00031662, 
+                    42.05332376
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart in Rolling Meadows, IL https://t.co/oibrxbccF6", 
+                "created_at": "Wed Feb 24 21:24:53 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -98.66806529, 
+                    29.48706064
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83d\ude4c (at @Walmart in San Antonio, TX) https://t.co/xiDLXNuKg2", 
+                "created_at": "Wed Feb 24 21:33:30 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -86.29519454, 
+                    12.14014975
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Walmart Carretera Sur https://t.co/yqJAokuSlG", 
+                "created_at": "Wed Feb 24 21:46:37 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -98.6904373, 
+                    35.5239296
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Work Fun!!!!! @ Walmart Weatherford - E Eagle Rd https://t.co/GpYStcAWwG", 
+                "created_at": "Wed Feb 24 21:49:09 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.71838328, 
+                    28.28271899
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "New tire pressure gauge (at @Walmart Supercenter in Port Richey, FL) https://t.co/TS96tmO7ar", 
+                "created_at": "Wed Feb 24 21:50:15 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -94.36667919, 
+                    39.04638589
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Independence, MO https://t.co/zC5lsNf2AF", 
+                "created_at": "Wed Feb 24 21:51:50 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -113.08797, 
+                    37.65449
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ugh, back here again for Rx (at @walmart) \u2014 https://t.co/UQ5dLYWwyj", 
+                "created_at": "Wed Feb 24 21:54:21 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.3407, 
+                    43.7166
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "TEM V\u00cdDEO NOVO!!! Isso mesmo, tem v\u00eddeo novo no canal, mostrando produtos e pre\u00e7os no Walmart,\u2026 https://t.co/YOhFhOgTc1", 
+                "created_at": "Wed Feb 24 22:00:31 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -110.2600997, 
+                    31.55988363
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Sierra Vista, AZ w/ @castilloandres6 https://t.co/uKPyh46ZKe", 
+                "created_at": "Wed Feb 24 22:02:06 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.2460571, 
+                    36.12341099
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ma Ma Waa (at @Walmart Supercenter in Las Vegas, NV) https://t.co/DTwhC8w9sk", 
+                "created_at": "Wed Feb 24 22:04:12 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -112.10252119, 
+                    33.49697223
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "75\u00a2 for one of the cans diet Dr pepper here I get it at @walmart in their soda machines for 50\u00a2\u2026 https://t.co/ZhciYiVA3p", 
+                "created_at": "Wed Feb 24 22:09:48 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.64934773, 
+                    34.25063516
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Walmart Supercenter in Camden, SC https://t.co/XwoiPLMLDO", 
+                "created_at": "Wed Feb 24 22:16:43 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.21187973, 
+                    51.84416008
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "@SaSSmaSter14 I like to think so too. At least I don't get thrown out of Walmart", 
+                "created_at": "Wed Feb 24 22:17:45 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -83.7770544, 
+                    43.17516391
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Clio, MI https://t.co/LrfIOEnoIa", 
+                "created_at": "Wed Feb 24 22:22:02 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.47616124, 
+                    28.44001739
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "30 MINUTOS RODANDO PRA ACHAR ALGOD\u00c3O DOCE NO WALMART\rachamos", 
+                "created_at": "Wed Feb 24 22:26:58 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.31569922, 
+                    28.25547809
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Saint Cloud, FL https://t.co/onPOLdcmzg", 
+                "created_at": "Wed Feb 24 22:28:15 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.01626469, 
+                    9.91040203
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Walmart in Curridabat, San Jos\u00e9 https://t.co/wQpbV7Yd7e", 
+                "created_at": "Wed Feb 24 22:28:26 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.86853759, 
+                    26.52574107
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just a reminder.... \ud83d\udc07\n\n#easter #rabbit @ Walmart Fort Myers - Ben C Pratt https://t.co/CBmVIpul81", 
+                "created_at": "Wed Feb 24 22:34:52 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -98.24502566, 
+                    26.24337424
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Grocery shopping with my Mama. (at @Walmart Supercenter in McAllen, TX) https://t.co/BP72pFXysQ", 
+                "created_at": "Wed Feb 24 22:35:05 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -112.184701, 
+                    33.63682824
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "doing a store pick up on some stuff I ordered online (at @Walmart Supercenter in Glendale, AZ w/ @spikeheelgirl) https://t.co/9x6OZMkVMn", 
+                "created_at": "Wed Feb 24 22:35:53 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.06960869, 
+                    29.92544434
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "2 times, in 2 days, and 2 seprate wally worlds (at @Walmart Supercenter in New Orleans, LA) https://t.co/yw6tW1pbMJ", 
+                "created_at": "Wed Feb 24 22:40:53 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.03647327, 
+                    32.93835035
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Walmart Supercenter in North Charleston, SC https://t.co/KuWrgclEpZ", 
+                "created_at": "Wed Feb 24 22:48:40 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -156.4553976, 
+                    20.87844078
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart in Kahului, HI https://t.co/lPoK4TNoB0", 
+                "created_at": "Wed Feb 24 22:49:30 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -156.45559425, 
+                    20.878422
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at American Savings Bank- Walmart Kahului in Kahului, HI https://t.co/yPq1O06hHi", 
+                "created_at": "Wed Feb 24 22:50:22 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.22998636, 
+                    33.91094929
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Me and my hemmi @ Walmart Lexington - S Lake Dr https://t.co/74604gpUY7", 
+                "created_at": "Wed Feb 24 22:52:00 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -88.00125828, 
+                    43.02532211
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Neighborhood Market in Milwaukee, WI https://t.co/t7EkRBpdBx", 
+                "created_at": "Wed Feb 24 22:55:58 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -95.25983334, 
+                    32.29721787
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Tyler, TX https://t.co/U1GaVPRIf3", 
+                "created_at": "Wed Feb 24 23:00:30 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -70.93466129, 
+                    42.49422376
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart in Salem, MA https://t.co/oa4uGE57GF", 
+                "created_at": "Wed Feb 24 23:00:51 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4795341, 
+                    45.61823988
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Vancouver, WA https://t.co/i9pQdmpBtm", 
+                "created_at": "Wed Feb 24 23:03:33 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -112.1325052, 
+                    33.52635234
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Phoenix, AZ https://t.co/zCm7OS2EEQ", 
+                "created_at": "Wed Feb 24 23:05:39 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.17181345, 
+                    47.16780108
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Bout to go home and hook it up @ Walmart Bonney Lake https://t.co/5Wzguj7XhI", 
+                "created_at": "Wed Feb 24 23:06:28 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -99.21901352, 
+                    19.45105273
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Corporativo Walmart - @moda_suburbia in Miguel Hidalgo, DF https://t.co/GazW323egD", 
+                "created_at": "Wed Feb 24 23:12:59 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.46908511, 
+                    28.65042532
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Walmart Supercenter in Apopka, FL https://t.co/UaRb9goKvP", 
+                "created_at": "Wed Feb 24 23:18:40 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.49758689, 
+                    40.06201375
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sky over #shippensburg @ Walmart Shippensburg https://t.co/XiYidOb1wA", 
+                "created_at": "Wed Feb 24 23:19:46 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.12246798, 
+                    36.79380773
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "The mason jar hunt continues \ud83e\udd14 (at @Walmart Supercenter in Virginia Beach, VA) https://t.co/41IQYdRF69", 
+                "created_at": "Thu Feb 25 15:54:23 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -86.02153329, 
+                    39.92904082
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Standing in the parking lot as the White Death falls around me. @ Walmart Fishers https://t.co/0HskKmVo1e", 
+                "created_at": "Thu Feb 25 16:07:53 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -95.67189289, 
+                    39.09346549
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Someone is very tired \ud83d\ude34 (at @Walmart Supercenter in Topeka, KS) https://t.co/bRMfq5EeXT", 
+                "created_at": "Thu Feb 25 16:15:25 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.00916862, 
+                    36.7596879
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Last time I was in this Walmart is when we went camping and I was drunk as a fish lol (at @Walmart Supercenter) https://t.co/8y0PRj2J3Y", 
+                "created_at": "Thu Feb 25 16:30:28 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -114.0417954, 
+                    46.88387813
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Missoula, MT https://t.co/AszKi2FtgC", 
+                "created_at": "Thu Feb 25 16:38:38 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.45937443, 
+                    28.30252923
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Kissimmee, FL https://t.co/yIr3HBW9lk", 
+                "created_at": "Thu Feb 25 16:57:33 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.76926675, 
+                    30.13798824
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#DadHack Too lazy to carry sleeping baby? #noproblem Fat Shout to Wal Mart!! @ Walmart Orange\u2026 https://t.co/6PTjQqjJy2", 
+                "created_at": "Thu Feb 25 17:01:16 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -83.5841553, 
+                    40.65663449
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Getting food for the house. (at @Walmart Supercenter in Kenton, OH) https://t.co/DLduB5avfm", 
+                "created_at": "Thu Feb 25 17:11:28 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.02351589, 
+                    34.21061794
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Leland, NC https://t.co/CXUC0ris2O", 
+                "created_at": "Thu Feb 25 17:12:02 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.39274437, 
+                    34.77938525
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Jacksonville, NC https://t.co/ycOyNUwujh", 
+                "created_at": "Thu Feb 25 17:17:36 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -99.21901352, 
+                    19.45105273
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Corporativo Walmart - @moda_suburbia in Miguel Hidalgo, DF https://t.co/rmPHFESTIC", 
+                "created_at": "Thu Feb 25 17:19:45 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.96701241, 
+                    40.08634596
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Walmart in Philadelphia, PA https://t.co/9AKaX5MdJU", 
+                "created_at": "Thu Feb 25 17:20:43 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.39681482, 
+                    38.85463534
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Fairfax, VA https://t.co/TSmSm6mcGB", 
+                "created_at": "Thu Feb 25 17:24:31 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.74194155, 
+                    27.8997928
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Got another #package WOOP WOOP YEEE #walmart @ Largo Florda https://t.co/EptaZ6rzUp", 
+                "created_at": "Thu Feb 25 17:36:15 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -93.10535431, 
+                    35.27971396
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at @Walmart Supercenter in Russellville, AR https://t.co/ICGw3ucHOM", 
+                "created_at": "Thu Feb 25 17:43:13 +0000 2016"
+            }
+        }
+    ]
+}
